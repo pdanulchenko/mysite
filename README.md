@@ -1,1 +1,2 @@
-# mysite
+# dummyWebsite
+Some dummy website for testing
